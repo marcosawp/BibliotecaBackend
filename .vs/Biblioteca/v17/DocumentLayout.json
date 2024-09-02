@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\api\\controllers\\solicitudprestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|solutionrelative:api\\controllers\\solicitudprestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\api\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97578F68-AA85-4058-8BBA-F421376A0638}|API\\API.csproj|solutionrelative:api\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DDF8A5-DF3C-4A4D-8142-0053C19EDD10}|Infraestructure\\Infraestructure.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\infraestructure\\repository\\solicitudprestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DDF8A5-DF3C-4A4D-8142-0053C19EDD10}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repository\\solicitudprestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855A1D2-9021-4630-9D20-241831F3C853}|AppService\\AppService.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\appservice\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855A1D2-9021-4630-9D20-241831F3C853}|AppService\\AppService.csproj|solutionrelative:appservice\\service\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0E4384-E056-49C0-B98D-95EAEFB8FDAB}|Domain\\Domain.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\domain\\entity\\solicitudprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0E4384-E056-49C0-B98D-95EAEFB8FDAB}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\solicitudprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855A1D2-9021-4630-9D20-241831F3C853}|AppService\\AppService.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\appservice\\interface\\isolicitudprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855A1D2-9021-4630-9D20-241831F3C853}|AppService\\AppService.csproj|solutionrelative:appservice\\interface\\isolicitudprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855A1D2-9021-4630-9D20-241831F3C853}|AppService\\AppService.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\appservice\\interface\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855A1D2-9021-4630-9D20-241831F3C853}|AppService\\AppService.csproj|solutionrelative:appservice\\interface\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05069D-F5AE-420B-8975-CFFB155F89E9}|Mapper\\Mapper.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\mapper\\configuration\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05069D-F5AE-420B-8975-CFFB155F89E9}|Mapper\\Mapper.csproj|solutionrelative:mapper\\configuration\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05069D-F5AE-420B-8975-CFFB155F89E9}|Mapper\\Mapper.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\mapper\\profile\\copialibroprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05069D-F5AE-420B-8975-CFFB155F89E9}|Mapper\\Mapper.csproj|solutionrelative:mapper\\profile\\copialibroprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DDF8A5-DF3C-4A4D-8142-0053C19EDD10}|Infraestructure\\Infraestructure.csproj|c:\\users\\marco.bravo\\documents\\ac\\biblioteca\\infraestructure\\repository\\copialibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DDF8A5-DF3C-4A4D-8142-0053C19EDD10}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repository\\copialibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T23:09:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:26:15.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolicitudPrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Controllers\\SolicitudPrestamoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SolicitudPrestamoController.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Controllers\\SolicitudPrestamoController.cs",
+              "RelativeToolTip": "API\\Controllers\\SolicitudPrestamoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:26:10.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "API\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:26:08.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SolicitudPrestamoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Infraestructure\\Repository\\SolicitudPrestamoRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repository\\SolicitudPrestamoRepository.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Infraestructure\\Repository\\SolicitudPrestamoRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repository\\SolicitudPrestamoRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:20:04.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolicitudPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Domain\\Entity\\SolicitudPrestamo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\SolicitudPrestamo.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Domain\\Entity\\SolicitudPrestamo.cs",
+              "RelativeToolTip": "Domain\\Entity\\SolicitudPrestamo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:19:12.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\AppService\\Service\\LibroService.cs",
+              "RelativeDocumentMoniker": "AppService\\Service\\LibroService.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\AppService\\Service\\LibroService.cs",
+              "RelativeToolTip": "AppService\\Service\\LibroService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:19:02.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISolicitudPrestamoService.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\AppService\\Interface\\ISolicitudPrestamoService.cs",
+              "RelativeDocumentMoniker": "AppService\\Interface\\ISolicitudPrestamoService.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\AppService\\Interface\\ISolicitudPrestamoService.cs",
+              "RelativeToolTip": "AppService\\Interface\\ISolicitudPrestamoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:19:01.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILibroService.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\AppService\\Interface\\ILibroService.cs",
+              "RelativeDocumentMoniker": "AppService\\Interface\\ILibroService.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\AppService\\Interface\\ILibroService.cs",
+              "RelativeToolTip": "AppService\\Interface\\ILibroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:18:59.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:57:50.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Mapper\\Configuration\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "Mapper\\Configuration\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Mapper\\Configuration\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "Mapper\\Configuration\\AutoMapperConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:57:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CopiaLibroProfile.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Mapper\\Profile\\CopiaLibroProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\Profile\\CopiaLibroProfile.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Mapper\\Profile\\CopiaLibroProfile.cs",
+              "RelativeToolTip": "Mapper\\Profile\\CopiaLibroProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:57:37.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CopiaLibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Infraestructure\\Repository\\CopiaLibroRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repository\\CopiaLibroRepository.cs",
+              "ToolTip": "C:\\Users\\marco.bravo\\Documents\\ac\\Biblioteca\\Infraestructure\\Repository\\CopiaLibroRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repository\\CopiaLibroRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:57:02.67Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
